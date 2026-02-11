@@ -172,6 +172,7 @@ The general idea is to have a place to be able to find datastructures.
 + [Bloc](https://github.com/pharo-graphics/Bloc) - Next generation low-level UI infratructure and framework for Pharo.
 + [ConstraintsLayout](https://github.com/tesonep/ConstraintsLayout) - A constraints layout for morphic using Cassowary as its backend.
 + [Colors Extensions](https://github.com/pharo-contributions/ColorsExtensions) - Extensions to Pharo colors.
++ [CSSParser](https://github.com/pharo-contributions/CSSParser) - A library that provides an object model and tools to read, interpret, and manipulate CSS stylesheets (including .css files).
 + [GraphViz](https://github.com/hernanmd/GraphViz) - Pharo GraphViz binding.
 + [GEXF](https://github.com/badetitou/PharoGEXF) - Pharo [GEXF file](https://gexf.net/) model and exporter.
 + [Jun](https://github.com/tomooda/Jun) - A 3D graphics library with chemoinformatics extensions.
@@ -182,6 +183,7 @@ The general idea is to have a place to be able to find datastructures.
 + [Roassal3](https://github.com/pharo-graphics/Roassal) - The agile 2D visualization engine for Pharo version 3. (V2: [Roassal2](https://github.com/ObjectProfile/Roassal2)) 
 + [Sparta](https://github.com/syrel/Sparta) - Sparta is an almost stateless vector graphics API for Pharo that provides bindings to the Moz2D rendering backend. 
 + [SpecUIAddOns](https://github.com/hernanmd/SpecUIAddOns) - Add-ons for Spec UI description framework.
++ [Stylesheet](https://github.com/pharo-contributions/Stylesheet) - Stylesheet is a project to define css like stylesheet in Pharo applications.
 + [Toplo](https://github.com/pharo-graphics/Toplo) - A widget framework on top of Bloc.
 + [Woden](https://github.com/ronsaldo/woden) - A 3D graphics engine for Pharo.
 
@@ -241,7 +243,6 @@ The general idea is to have a place to be able to find datastructures.
 + [PharoFamily](https://files.pharo.org/media/pharo-family1.pdf) - PDF image showing a part of Pharo ecosystem.
 + [PharoMisc](https://github.com/bouraqadi/PharoMisc) - Small utilities and libraries around various topics.
 + [PTerm](https://github.com/lxsang/PTerm) - Using Unix terminal from Pharo.
-+ [Stylesheet](https://github.com/pharo-contributions/Stylesheet) - Stylesheet is a project to define css like stylesheet in Pharo applications.
 + [Territorial](https://github.com/hernanmd/Territorial) - Geographical Information Retrieval (GIR) project including features to access geopolitical objects like Nations, Cities, Regions, International Organizations, and statistical data.
 
 ## Network protocols
